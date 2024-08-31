@@ -21,5 +21,5 @@ git clone https://github.com/kleberton-santos/Atividade2-PraTi.git
 - Abra o Vscode e execute a pasta do projeto Atividade 2
 - Enunciado dos exercicios estão comentandos em cada arquivo
 - Basta selecionar qual exercicio deseja executar
-- Digite node nome do exericio, exemplo Exercicio01
+- Digite node nome do exercicio, exemplo Exercicio01
 - node Exercicio01.js e pressione Enter 
