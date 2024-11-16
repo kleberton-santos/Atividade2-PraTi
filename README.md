@@ -15,8 +15,9 @@ Os exercícios estão contidos arquivos JavaScript numerados com cada exercicio.
 ### Clonando o Repositório
 
 Para clonar o repositório para sua máquina local, use o seguinte comando:
+```bash
 git clone https://github.com/kleberton-santos/Atividade2-PraTi.git
-
+```
 ### Instruções
 - Abra o Vscode e execute a pasta do projeto Atividade 2
 - Enunciado dos exercicios estão comentandos em cada arquivo
